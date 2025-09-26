@@ -1,0 +1,7 @@
+admin:
+admin@email.com	
+admin123	
+
+patient:
+john@gmail.com
+password123
